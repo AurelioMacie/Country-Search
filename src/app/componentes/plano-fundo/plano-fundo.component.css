@@ -5,13 +5,14 @@
     align-items: center;
     text-align: center;
     margin-top: 0px;
-    padding-top: 0px
 }
 
 .pesquisa{
-    padding-top: 1px;
+    font-size: 15px;
+    color: black;
 }
 
 h2{
+    padding-top: 25px;
     color: white;
 }
